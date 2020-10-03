@@ -1,3 +1,4 @@
+import {program} from 'commander'
 import commands from './commands'
 
 export class cli {
@@ -6,10 +7,6 @@ export class cli {
         this.args = process.argv
     }
     public execute(command: string, args: string[]) {
-        commands.commands.forEach(thisCommand => {
-            if(command === thisCommand.title) {
-                thisCommand.do(process.argv)
-            }
-        })
+        
     }
 }
