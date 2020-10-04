@@ -29,7 +29,7 @@ For example, if your main is a .APK, the target'll be Android.
 
 ## About CD
 
-We have planned to do Continous Delivery.
+We have planned to do Continous Deployment.
 
 ## About Apple
 
