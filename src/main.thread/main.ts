@@ -1,6 +1,6 @@
-import { init } from '../cli/init'
+import '../cli/init'
 import resources from './resources.json'
 
 export function main() {
-    init()
+    
 }
