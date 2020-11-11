@@ -1,5 +1,4 @@
 import argparse
-import packageManager
 
 # Program version and other data
 
