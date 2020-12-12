@@ -1,2 +1,2 @@
 build:
-	go build -o ./dist/main ./src/main.go
+	go build -o ./dist/main ./src/cmd/main.go
