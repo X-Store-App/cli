@@ -1,3 +1,3 @@
-module app
+module xstorecli
 
 go 1.15
