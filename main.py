@@ -1,7 +1,8 @@
 import argparse
 
 def __main__():
-	pass
+	parser = argparse.ArgumentParser()
+	parser.parse_args()
 
 if __name__ == "__main__":
 	__main__()
