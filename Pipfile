@@ -1,0 +1,11 @@
+[[source]]
+url = "https://github.com/X-Store-App/cli"
+verify_ssl = true
+name = "xstore-cli"
+
+[packages]
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
