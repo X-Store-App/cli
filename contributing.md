@@ -4,10 +4,16 @@
 
 - Python3
 - Pipenv
+- GNU/*nix-like OS (for development only)
 
 ### Running and building
 
 #### In development
 ```
-python3 main.py
+make dev
+```
+
+#### When building
+```
+make build
 ```

@@ -4,6 +4,7 @@ verify_ssl = true
 name = "xstore-cli"
 
 [packages]
+pyinstaller = "*"
 
 [dev-packages]
 
