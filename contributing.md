@@ -17,3 +17,11 @@ aero
 ```
 aero build
 ```
+
+### When filling an issue
+
+You should fill in the template.
+
+### When filling a PR
+
+Explain what you done and the known issues.
