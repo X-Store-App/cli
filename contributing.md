@@ -2,18 +2,18 @@
 
 ### Prerequisites
 
-- Python3
-- Pipenv
-- GNU/*nix-like OS (for development only)
+- [Python 3.8+](https://python.org)
+- [Pipenv](https://github.com/pypa/pipenv)
+- [Aero Task Runner](https://github.com/X-Store-App/aero)
 
 ### Running and building
 
 #### In development
 ```
-make dev
+aero
 ```
 
 #### When building
 ```
-make build
+aero build
 ```
