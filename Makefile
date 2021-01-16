@@ -1,2 +1,2 @@
 build:
-	go build ./src/main.go -o ./dist/xstore
+	go build -o ./dist/xstore ./src/main.go
