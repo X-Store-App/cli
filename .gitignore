@@ -1,7 +1,4 @@
 dist/
-build/
-__pycache__
-xstore.spec
 .idea
 .vscode
 .vs
