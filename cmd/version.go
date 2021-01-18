@@ -12,6 +12,8 @@ import (
 // VersionCmd prints the CLI's version
 var VersionCmd = &cobra.Command{
 	Use: "version",
+	Short: "The version of this CLI",
+	Long: "Prints the version of this CLI to the console.",
 	Run: func(cmd *cobra.Command, args []string) {
 		wd, wdErr := os.Getwd()
 		versionPath := filepath.Join(wd, "VERSION")
