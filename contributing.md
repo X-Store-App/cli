@@ -4,18 +4,11 @@
 
 - [Python 3.8+](https://python.org)
 - [Pipenv](https://github.com/pypa/pipenv)
-- [Aero Task Runner](https://github.com/X-Store-App/aero)
+- GNU Make
 
-### Running and building
-
-#### In development
+#### Building
 ```
-aero
-```
-
-#### When building
-```
-aero build
+make
 ```
 
 ### When filling an issue
