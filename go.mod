@@ -1,4 +1,4 @@
-module github.com/X-Store-App/cli
+module github.com/xstoreapp/cli
 
 go 1.15
 
